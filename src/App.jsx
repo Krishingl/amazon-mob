@@ -34,9 +34,7 @@ function App(){
       />
        <Mobile 
       image="https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
-      name="Redmi A4 5G (Starry Black, 4GB RAM, 64GB Storage) | Global Debut SD 4s Gen 2 | Segment Largest 6.88in 120Hz | 50MP Dual Ca...
-Redmi A4 5G (Starry Black, 4GB RAM, 64GB Storage) | Global Debut SD 4s Gen 2 | Segment Largest 6.88in 120Hz | 50MP"
-      saleInK="5"
+      name="Redmi A4 5G (Starry Black, 4GB RAM, 64GB Storage) | Global Debut SD 4s Gen 2 | Segment Largest 6.88in 120Hz | 50MP Dual Ca..."
       newPrice="8,299"
       oldPrice="10,999"
       offer="25"
